@@ -6,7 +6,7 @@
     "date": "18.11.2023",
     "autor": "Автор №1",
     "imgAutor": "https://durganews.com/wp-content/uploads/2019/10/news-writing-for-television-in-hindi.png",
-    "id": 1
+    "id": "1"
   },
   {
     "img": "https://gas-kvas.com/uploads/posts/2023-02/1675489758_gas-kvas-com-p-izobrazheniya-i-kartinki-na-fonovii-risuno-41.jpg",
@@ -15,7 +15,7 @@
     "date": "20.11.2023",
     "autor": "Автор №2",
     "imgAutor": "https://w7.pngwing.com/pngs/221/745/png-transparent-cartoon-illustration-hand-painted-cartoon-man-writing-work-watercolor-painting-hand-computer.png",
-    "id": 2
+    "id": "2"
   },
   {
     "img": "https://gas-kvas.com/uploads/posts/2023-02/1675489758_gas-kvas-com-p-izobrazheniya-i-kartinki-na-fonovii-risuno-41.jpg",
@@ -24,7 +24,7 @@
     "date": "01.12.2024",
     "autor": "Автор №3",
     "imgAutor": "https://durganews.com/wp-content/uploads/2019/10/news-writing-for-television-in-hindi.png",
-    "id": 3
+    "id": "3"
   },
   {
     "img": "https://gas-kvas.com/uploads/posts/2023-02/1675489758_gas-kvas-com-p-izobrazheniya-i-kartinki-na-fonovii-risuno-41.jpg",
@@ -33,6 +33,6 @@
     "date": "01.01.2024",
     "autor": "Автор №4",
     "imgAutor": "https://durganews.com/wp-content/uploads/2019/10/news-writing-for-television-in-hindi.png",
-    "id": 4
+    "id": "4"
   },
 ]
