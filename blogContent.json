@@ -1,7 +1,12 @@
 [
   {
-    "identity": "John Doe",
-    "size": 30
+    "id": 1,
+    "img": "https://get.wallhere.com/photo/1920x1200-px-coast-landscapes-ocean-shore-sky-sunset-waves-1718429.jpg",
+    "title": "Заголовок новости №1",
+    "description": "Описание новости №1. новости новости новости новости новости новости новости новости новости новости новости новости новости новости новости новости новости новости новости новости новости новости новости новости новости новости новости новости новости новости новости новости новости новости новости новости",
+    "date": "18.11.2023",
+    "autor": "Автор №1",
+    "imgAutor": "https://durganews.com/wp-content/uploads/2019/10/news-writing-for-television-in-hindi.png"
   },
   {
     "identity": "John Doe",
