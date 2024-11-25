@@ -1,6 +1,5 @@
 - 👋 Hi, I'm @Stasbeep (Stanislav Oskol)
 - 👀 Interested in Frontend
-- 🌱 Currently studying GeekBrains
 - 💞 Looking forward to cooperate with you
 - 📫 You can contact me by mail: stanislav.osk@mail.ru
 
